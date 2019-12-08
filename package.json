@@ -1,0 +1,19 @@
+{
+  "name": "automationassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  },
+  "dependencies": {
+    "got": "^10.0.2",
+    "selenium-cucumber-js": "^1.7.0"
+  }
+}
